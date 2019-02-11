@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/alpha/Alpha/Personal/Demo/react-hook-todo-app/src/assets/scss/styles.scss"],"names":[],"mappings":"AAAA,KAEE,gBAAgB,AAChB,qBAAgB,CACjB","file":"main.4997b932.chunk.css","sourcesContent":["body {\n  margin: auto;\n  max-width: 500px;\n  margin-top: 20px;\n}\n"]}
